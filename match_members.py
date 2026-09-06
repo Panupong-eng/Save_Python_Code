@@ -2,7 +2,7 @@
 customers = [
     {"name":"สมชาย", "email":"somchai@example.com", "type":"member"},
     {"name":"สมหญิง", "email":"somjing@example.com", "type":"general"},
-    {"name":"สมศักดิ์", "email":"somSakd@example.com", "type":"general"},
+    {"name":"สมศักดิ์", "email":"somSakd@example.com", "type":"general"}
 ]
 
 id = int(input("Enter customer ID : "))
